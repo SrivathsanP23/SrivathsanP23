@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrivathsanP23](https://github.com/SrivathsanP23)
 
-- 💬 My Portfolio **https://personal-portfolio-gray-six.vercel.app/**
+- 💬 My Portfolio **https://srivathsan-portfolio.vercel.app/**
 
 - 📫 How to reach me **https://linktr.ee/SrivathsanP**
 
