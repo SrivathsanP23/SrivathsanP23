@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://linktr.ee/SrivathsanP**
 
-- 📄 Know about my experiences [📄[https://drive.google.com/file/d/1LtvhyvIA2kfllCUcoewXtA8-lfkyv1K9/view?usp=sharing])
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LtvhyvIA2kfllCUcoewXtA8-lfkyv1K9/view?usp=sharing]
 
 
 
