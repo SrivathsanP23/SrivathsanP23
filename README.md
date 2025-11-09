@@ -7,7 +7,7 @@
 <img align="right" src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand">
 
 
-- 🔭 I’m currently learning **Machine Learning** 
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrivathsanP23](https://github.com/SrivathsanP23)
 
