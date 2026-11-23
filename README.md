@@ -42,5 +42,7 @@
 
 <h2 align="center">📈</h2>
 
+<!--
 [![SrivathsanP23's Contribution](https://github-readme-activity-graph.vercel.app/graph?username=SrivathsanP23&custom_title=Srivathsan%20P's%20Contribution%20🚀&color=ffffff&line=00ff00&theme=high-contrast&point=fff0ff&area=true&hide_border=true)](https://github.com/SrivathsanP23)
+-->
 
