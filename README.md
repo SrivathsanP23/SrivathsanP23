@@ -11,11 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrivathsanP23](https://github.com/SrivathsanP23)
 
-- 💬 My Portfolio **https://srivathsan-portfolio.vercel.app/**
-
-- 📫 How to reach me **https://linktr.ee/SrivathsanP**
-
-- 📄 Know about my experiences  https://drive.google.com/file/d/1LtvhyvIA2kfllCUcoewXtA8-lfkyv1K9/view?usp=sharing
+- 💬 My Portfolio **https://srivathsan-portfolio.silverfloat128.chatgpt.site**
 
 
 
